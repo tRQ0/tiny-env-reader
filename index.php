@@ -1,6 +1,6 @@
 <?php
 
-namespace Utils;
+namespace tRQ0/Utils/TinyEnvParser;
 
 /**
  * A simple laravel style .env reader
